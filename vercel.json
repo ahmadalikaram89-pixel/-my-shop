@@ -1,8 +1,0 @@
-{
-  "routes": [
-    { "src": "/", "dest": "/index.html" },
-    { "src": "/admin", "dest": "/admin-new.html" },
-    { "src": "/app", "dest": "/mutajari.html" },
-    { "src": "/mutajari.html", "dest": "/mutajari.html" }
-  ]
-}
